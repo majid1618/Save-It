@@ -1,0 +1,6 @@
+{
+  "name": "Save It",
+  "description": "Categorize shared URLs, add notes, adjust link lifetimes, and customize notification settings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
